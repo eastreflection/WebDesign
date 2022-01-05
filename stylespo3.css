@@ -1,0 +1,23 @@
+
+body {
+ background-image: url("A321.jpg");
+background-repeat:no-repeat;
+}
+
+h1{
+	background-color:green;
+	Font-weight:300;
+	Font-style:Bold;
+	Text-decoration:Underline;
+	Text-align:center;
+	Border:solid;
+	Font-family:Verdana;
+}
+form{
+	Color:red;
+	Font-family:Franklin Gothic Book;
+	padding:10px;
+	Text-align:center;
+	
+	
+}
